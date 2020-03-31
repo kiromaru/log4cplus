@@ -61,3 +61,4 @@ docs/webpage_docs-*/
 *.exe
 *.out
 *.app
+/msvc14/.vs/
